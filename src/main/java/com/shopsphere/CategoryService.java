@@ -1,4 +1,4 @@
-package com.shopsphere.service;
+.package com.shopsphere.service;
 
 import com.shopsphere.entity.Category;
 import com.shopsphere.repository.CategoryRepository;
